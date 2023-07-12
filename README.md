@@ -1,4 +1,14 @@
-###
+# Loren Hartman's Github
+
+---
+
+## Previous Projects:
+
+---
+
+### Recipe Manager (JavaScript)
+
+---
 
 ![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael&show_icons=true&theme=transparent)
 
