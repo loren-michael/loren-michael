@@ -1,20 +1,26 @@
 # Hi! I'm Loren and this is my Github!
 
+##### they/them || Chicago, IL || [LinkedIn](https://www.linkedin.com/in/lorenhartman/ "LinkedIn") || [DEV](https://dev.to/lorenmichael "Blog")
+
+After more than a decade of experience as a live sound engineer and production manager for concert venues, I decided to transition to a new career as a software developer. I figured that lockdown was a great opportunity to try something new, so I decided to attend Flatiron School and graduated in May of 2023. I'm looking forward to learning and growing as a software developer in the years to come.
+
 ---
-
-After more than a decade of experience as a sound engineer and production manager for local Chicago venues, I decided to transition to a new career as a software developer. I decided to attend Flatiron School and graduated in May of 2023. I'm looking forward to learning and growing as a software developer in the years to come.
-
-Directly below, you can see a handful of applications that I built as school projects. I'm proud of these works, and hope to return to update and polish them in the future.
 
 ## Applications:
 
----
-
 ### Recipe Manager (JavaScript)
 
-[Recipe Manager](https://github.com/loren-michael/phase-1-project "Recipe Manager")
+[Recipe Manager (JavaScript)](https://github.com/loren-michael/phase-1-project "Recipe Manager (JS)")
 
-This was the first app that I build for a Flatiron project. It uses JavaScript and DOM manipulation to show a list of recipes from a database, and also allows you to add your own recipes to the list.
+This was the first app that I build for a Flatiron project. It uses basic DOM manipulation to show a list of recipes from an included JSON database, and also allows you to add your own recipes to the list. The functionality is very basic, and does not include any validations or the ability to delete recipes without editing the database directly.
+
+### Recipe Manager (React)
+
+[Recipe Manager (React)](https://github.com/loren-michael/phase-2-react-project "Recipe Manager (React)")
+
+My second app is another Recipe Manager - I guess I really wanted to expand on that idea! This time around, I utilized Semantic UI cards to my home page for a better display and also included the ability to "favorite" a recipe and leave a comment.
+
+### Character Manager (Ruby/Sinatra/React)
 
 ---
 
