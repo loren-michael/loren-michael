@@ -1,6 +1,6 @@
-### Hi there 👋
+###
 
-[![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael)](https://github.com/loren-michael/github-readme-stats)
+![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael&show_icons=true&theme=dracula)
 
 <!--
 **loren-michael/loren-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
