@@ -1,6 +1,6 @@
 ###
 
-![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael&show_icons=true&theme=dracula)
+![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loren-michael&layout=donut)](https://github.com/loren-michael/github-readme-stats)
 
