@@ -31,7 +31,13 @@ This simple app was designed to demonstrate knowledge of Ruby with Sinatra. It a
 
 [Movie Rental App](https://github.com/loren-michael/phase-4-project-final "Movie Rental App")
 
-This app was meant to go a little deeper into my understanding of Ruby on Rails, while also learning useContext and how to access state from a central location.
+This app was meant to go a little deeper into my understanding of Ruby on Rails, while also applying useContext to access state from a central location. Also includes validations and authentication for users using bcrypt.
+
+### Sell It!
+
+[Sell It! eCommerce site](https://github.com/loren-michael/phase-5-project "Sell It!")
+
+This app allows users to buy and sell audio gear. Simliar to eBay or Etsy. Users are authenticated, validations exist for all new items, and carts can be modified until the point of purchase.
 
 ---
 
