@@ -22,7 +22,16 @@ My second app is another Recipe Manager - I guess I really wanted to expand on t
 
 ### Character Manager (Ruby/Sinatra/React)
 
----
+[Character Manager FrontEnd](https://github.com/loren-michael/phase-3-project-frontend "Character Manager FrontEnd")
+[Character Manager Backend](https://github.com/loren-michael/phase-3-sinatra-react-project "Character Manager Backend")
+
+This simple app was designed to demonstrate knowledge of Ruby with Sinatra. It allows you to create and manage the levels of D&D characters.
+
+### Movie Rental App (Ruby on Rails, React)
+
+[Movie Rental App](https://github.com/loren-michael/phase-4-project-final "Movie Rental App")
+
+## This app was meant to go a little deeper into my understanding of Ruby on Rails, while also learning useContext and how to access state from a central location.
 
 ![Loren's GitHub stats](https://github-readme-stats.vercel.app/api?username=loren-michael&show_icons=true&theme=transparent)
 
