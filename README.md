@@ -10,30 +10,40 @@ After more than a decade of experience as a live sound engineer and production m
 
 ### Sell It!
 
+Ruby on Rails, React, Redux
+
 [Sell It! eCommerce site](https://github.com/loren-michael/phase-5-project "Sell It!")
 
 This app allows users to buy and sell audio gear. Simliar to eBay or Etsy. Users are authenticated, validations exist for all new items, and carts can be modified until the point of purchase.
 
-### Movie Rental App (Ruby on Rails, React)
+### Movie Rental App
+
+Ruby on Rails, React
 
 [Movie Rental App](https://github.com/loren-michael/phase-4-project-final "Movie Rental App")
 
 This app was meant to go a little deeper into my understanding of Ruby on Rails, while also applying useContext to access state from a central location. Also includes validations and authentication for users using bcrypt.
 
-### Character Manager (Ruby/Sinatra/React)
+### Character Manager
+
+Ruby/Sinatra/React
 
 [Character Manager FrontEnd](https://github.com/loren-michael/phase-3-project-frontend "Character Manager FrontEnd")
 [Character Manager Backend](https://github.com/loren-michael/phase-3-sinatra-react-project "Character Manager Backend")
 
 This simple app was designed to demonstrate knowledge of Ruby with Sinatra. It allows you to create and manage the levels of D&D characters.
 
-### Recipe Manager (React)
+### Recipe Manager
+
+React
 
 [Recipe Manager (React)](https://github.com/loren-michael/phase-2-react-project "Recipe Manager (React)")
 
 My second app is another Recipe Manager - I guess I really wanted to expand on that idea! This time around, I utilized Semantic UI cards to my home page for a better display and also included the ability to "favorite" a recipe and leave a comment.
 
-### Recipe Manager (JavaScript)
+### Recipe Manager
+
+JavaScript
 
 [Recipe Manager (JavaScript)](https://github.com/loren-michael/phase-1-project "Recipe Manager (JS)")
 
