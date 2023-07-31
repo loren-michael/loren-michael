@@ -2,7 +2,7 @@
 
 ##### they/them || Chicago, IL || [LinkedIn](https://www.linkedin.com/in/lorenhartman/ "LinkedIn") || [DEV](https://dev.to/lorenmichael "Blog")
 
-After more than a decade of experience as a live sound engineer and production manager for concert venues, I decided to transition to a new career as a software developer. I figured that lockdown was a great opportunity to try something new, so I decided to attend Flatiron School and graduated in May of 2023. I'm looking forward to learning and growing as a software developer in the years to come.
+After more than a decade of experience as a live sound engineer and production manager for concert venues, I decided to transition to a new career as a software developer. I figured that lockdown was a great opportunity to try something new, so I decided to attend Flatiron School and graduated in May of 2023. I'm looking forward to learning and growing as a software developer in the years to come. I am currently learning Python while searching for employment.
 
 ---
 
