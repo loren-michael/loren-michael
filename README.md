@@ -10,7 +10,11 @@ After more than a decade of experience as a live sound engineer and production m
 
 ### Fax For Gaza
 
-[Fax For Gaza Representative Lookup and PDF Generator]((https://faxforgaza.com/))
+Representative Lookup and PDF Generator
+
+[Fax For Gaza](https://faxforgaza.com/ "Fax For Gaza")
+
+A live application that allows users to look up their local and state representatives using the Civic Information Google API. When representative information is received, PDFs are generated for the user to download to their phone and utilize faxzero.com to send the PDFs to their representatives.
 
 ### Sell It!
 
