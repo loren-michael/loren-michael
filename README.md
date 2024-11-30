@@ -12,7 +12,7 @@ After more than a decade of experience as a live sound engineer and production m
 
 Representative Lookup and PDF Generator
 
-[Live Site](https://faxforgaza.com/ "Live Site")
+[Site Currently Down](https://faxforgaza.com/ "Live Site")
 
 A live application that allows users to look up their local and state representatives using the Civic Information Google API. When representative information is received, PDFs are generated for the user to download to their phone and utilize faxzero.com to send the PDFs to their representatives.
 
@@ -22,7 +22,7 @@ Ruby on Rails, React, Redux
 
 [Sell It! eCommerce Repo](https://github.com/loren-michael/phase-5-project "Sell It!")
 
-This app allows users to buy and sell audio gear. Simliar to eBay or Etsy. Users are authenticated, validations exist for all new items, and carts can be modified until the point of purchase.
+This app allows users to buy and sell audio gear. Similiar to eBay or Etsy. Users are authenticated, validations exist for all new items, and carts can be modified until the point of purchase.
 
 ### Movie Rental App
 
@@ -30,7 +30,7 @@ Ruby on Rails, React
 
 [Movie Rental Repo](https://github.com/loren-michael/phase-4-project-final "Movie Rental Repo")
 
-This app was meant to go a little deeper into my understanding of Ruby on Rails, while also applying useContext to access state from a central location. Also includes validations and authentication for users using bcrypt.
+This app was meant to go deeper into my understanding of Ruby on Rails, while also applying useContext to access state from a central location. Also includes validations and authentication for users using bcrypt.
 
 ### Character Manager
 
